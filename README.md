@@ -2,5 +2,5 @@
 
 ## In Progress
 
-![screenshot](./assets/images/screenshot.png)
+![screenshot](./src/assets/images/screenshot.png)
 
